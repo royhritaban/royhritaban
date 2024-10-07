@@ -11,7 +11,15 @@ excerpt: >
   Python expertise powering your software needs
   <br>
 feature_row:
-  - image_path: /assets/poster_bsu.png
+  - image_path: /assets/drown_detect.png
+    alt: "customizable"
+    title: "DrownDetect"
+    excerpt: "Improving beach safety by implementing an early warning system for individuals at risk of drowning."
+    url: "https://github.com/CodeTheCity/Team_Yodo"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+
+  - image_path: /assets/branded_school_uniforms.jpeg
     alt: "customizable"
     title: "BrandedSchoolUniforms"
     excerpt: "Enhancing affordability and accessibility, we optimize school uniform supply chains in Scotland through streamlined processes, ensuring quality uniforms reach every student without financial strain."
@@ -19,7 +27,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
-  - image_path: /assets/wordle.webp
+  - image_path: /assets/wordle_bot.jpeg
     alt: "fully responsive"
     title: "WordleAnalysis"
     excerpt: "By analyzing word-guessing games like Wordle, we uncover cognitive dynamics using Information Theory and computational analysis, offering insights into language processing and problem-solving strategies."
